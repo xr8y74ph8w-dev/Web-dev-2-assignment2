@@ -1,4 +1,3 @@
-
 const apiKey = "https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=YOUR_API_KEY&units=metric";
 const searchBtn = document.getElementById("searchBtn");
 const cityInput = document.getElementById("cityInput");
